@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1734288085 source:c:\users\fame\documents\dsa labs\project\dsa_project\main.cpp
+	<iostream>
+	"Inventory.h"
+	"Item.h"
+
+1734329686 c:\users\fame\documents\dsa labs\project\dsa_project\include\inventory.h
+	"LinkedList.h"
+	"HashMap.h"
+	<iostream>
+
+1734208545 c:\users\fame\documents\dsa labs\project\dsa_project\include\item.h
+	<string>
+
+1734367519 source:c:\users\fame\documents\dsa labs\project\dsa_project\src\inventory.cpp
+	"Inventory.h"
+	<fstream>
+
+1734367524 source:c:\users\fame\documents\dsa labs\project\dsa_project\src\item.cpp
+	"Item.h"
+	<iostream>
+
+1734367539 c:\users\fame\documents\dsa labs\project\dsa_project\include\linkedlist.h
+	"Item.h"
+	<iostream>
+
+1734329100 c:\users\fame\documents\dsa labs\project\dsa_project\include\hashmap.h
+	"LinkedList.h"
+	<iostream>
+
+1734367509 source:c:\users\fame\documents\dsa labs\project\dsa_project\src\hashmap.cpp
+	"HashMap.h"
+
+1734367527 source:c:\users\fame\documents\dsa labs\project\dsa_project\src\linkedlist.cpp
+	"LinkedList.h"
+
+1734370009 source:c:\users\fame\documents\dsa\dsa_project\include\hashmap.h
+	"LinkedList.h"
+	<iostream>
+
+1734370018 c:\users\fame\documents\dsa\dsa_project\include\linkedlist.h
+	"Item.h"
+	<iostream>
+
+1734370046 c:\users\fame\documents\dsa\dsa_project\include\item.h
+	<string>
+
+1734370174 source:c:\users\fame\documents\dsa\dsa_project\include\inventory.h
+	"LinkedList.h"
+	"HashMap.h"
+	<iostream>
+
+1734370009 c:\users\fame\documents\dsa\dsa_project\include\hashmap.h
+	"LinkedList.h"
+	<iostream>
+
+1734370046 source:c:\users\fame\documents\dsa\dsa_project\include\item.h
+	<string>
+
+1734370018 source:c:\users\fame\documents\dsa\dsa_project\include\linkedlist.h
+	"Item.h"
+	<iostream>
+
+1734371400 source:c:\users\fame\documents\dsa\dsa_project\main.cpp
+	<iostream>
+	"Inventory.h"
+	"Item.h"
+
+1734370174 c:\users\fame\documents\dsa\dsa_project\include\inventory.h
+	"LinkedList.h"
+	"HashMap.h"
+	<iostream>
+
+1734370531 source:c:\users\fame\documents\dsa\dsa_project\src\hashmap.cpp
+	"HashMap.h"
+
+1734371351 source:c:\users\fame\documents\dsa\dsa_project\src\item.cpp
+	"Item.h"
+	<iostream>
+
+1734370921 source:c:\users\fame\documents\dsa\dsa_project\src\linkedlist.cpp
+	"LinkedList.h"
+
+1753727622 source:c:\users\fame\documents\dsa\dsa_project\src\inventory.cpp
+	"Inventory.h"
+	<fstream>
+
