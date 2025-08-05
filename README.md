@@ -64,10 +64,7 @@ This system supports complete **CRUD operations** (Create, Read, Update, Delete)
 
 ![System Workflow](workflow.png)
 
-> Make sure to place the image file as `workflow.png` in your repository folder.
-
 ---
-#---
 
 ## 🧠 Learning Outcomes
 
