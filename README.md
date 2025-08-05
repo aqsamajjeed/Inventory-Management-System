@@ -67,16 +67,14 @@ This system supports complete **CRUD operations** (Create, Read, Update, Delete)
 > Make sure to place the image file as `workflow.png` in your repository folder.
 
 ---
-##🧠 Learning Outcomes
--Designed and implemented a real-world inventory system from scratch
--Mastered Linked Lists and Hash Maps without built-in STL
--Learned about memory management, hashing, and chaining techniques
--Improved understanding of object-oriented programming and file handling
+#---
+
+## 🧠 Learning Outcomes
+
+- ✅ Designed and implemented a real-world inventory system from scratch  
+- ✅ Mastered **Linked Lists** and **Hash Maps** without relying on STL  
+- ✅ Learned about **memory management**, **hashing**, and **chaining techniques**  
+- ✅ Improved understanding of **object-oriented programming** and **file handling** in C++
 
 ---
 
-##🚀 How to Compile & Run
-###Compile:
-g++ main.cpp -o inventory
-###Run:
-./inventory
